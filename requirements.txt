@@ -1,0 +1,7 @@
+seaborn
+matplotlib
+openpyxl
+bokeh
+numpy
+jupyter
+pandas
