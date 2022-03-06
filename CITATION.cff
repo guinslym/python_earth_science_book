@@ -1,10 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  Introduction to Python in Earth Science Data
+  Analysis
+message: Feel free to cite this repository in your paper
+type: software
 authors:
-  - family-names: Mondesir
-    given-names: Guinsly
-    orcid: https://orcid.org/0000-0003-4925-7248
-    url: https://github.com/guinslym/python_earth_science_book/
-title: "python_earth_science_book"
-version: 2.0.4
-date-released: 2022-03-11
+  - given-names: Guinsly Mondesir
+    name-particle: Guinsly
+    family-names: Mondesir
+    orcid: 'https://orcid.org/0000-0001-6956-4742'
+    affiliation: University of Perugia
